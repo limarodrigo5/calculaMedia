@@ -2,6 +2,13 @@
 
 Bem-vindo à Calculadora de Média Escolar! Este é um pequeno script em JavaScript que calcula a média das notas de um aluno e fornece um feedback com base nas notas obtidas.
 
+## Conteúdos Abordados 📚
+
+- Uso de variáveis e operadores
+- Estruturas condicionais (if/else)
+- Interação com o usuário (prompt)
+- Funções matemáticas básicas
+
 ## Como Usar 🖋️
 
 1. Abra o console do seu navegador ou execute o código em um ambiente JavaScript.
